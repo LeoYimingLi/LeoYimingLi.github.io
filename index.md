@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-<title> ???
 
 ## About Me
 
 <img class="profile-picture" src="yiming.jpg">
-
+<title> ???
 Hi! I am a 3rd year student from Harbin Institute of Technology, China. My major is Computer science. 
 This semester I study in NCTU as an exchange student(Student ID: 0840029).
 
