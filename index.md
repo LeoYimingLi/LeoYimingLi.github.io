@@ -47,4 +47,6 @@ I am still preparing for TOEFL and GRE test for future graduate application.
 
 ## Other
 
-I hope my exchange life in NCTU not only consist of courses-studying but also some participation in lab, which would help me to feel the academic atmosphere here more comprehensively. Also I want to improve my research skills to gain more advantages when applying for good graduate programs in the future.
+I hope my exchange life in NCTU not only consist of courses-studying but also some participation in lab, which would help me to feel the academic atmosphere here more comprehensively. Also I want to improve my research skills to gain more advantages when applying for good graduate programs in the future.    
+
+
