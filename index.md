@@ -20,7 +20,7 @@ GPA at Present: 90.6/100, 106 credits
 
 2019 1st Semester  Exchange Student, The University of Queensland, Brisbane, Australia. School of Information Technology and Electrical Engineering(ITEE)  
 Major GPA : 6.33/7.00, 6 units  
-Major Courses: Programming in the Large, Machine Learning and Computer network
+Major Courses: Programming in the Large, Machine Learning and Computer Network
 
 ## Project Experience
 
@@ -29,15 +29,15 @@ Benben is an intelligent chatting virtual robot developed by SCIR lab, HIT and t
 [Related Introduce Website] (https://mp.weixin.qq.com/s/2Zm4-xkUq_A3d0qjn1FN_Q)
 
 ## Course Score
-Data Structures and Algorithms 90 /100  
-Set Theory and Graph Theory 91 /100  
-Python Programming 97 /100  
-Mathematical Logic 95.5 /100  
-Digital Logic Design 92.3 /100  
-Computer System 90 /100  
-Programming in the Large 7 / 7  
-Machine Learning 6 / 7  
-Computer network 6 / 7  
+Data Structures and Algorithms    90 /100  
+Set Theory and Graph Theory       91 /100  
+Python Programming                97 /100  
+Mathematical Logic              95.5 /100  
+Digital Logic Design            92.3 /100  
+Computer System                   90 /100  
+Programming in the Large           7 / 7  
+Machine Learning                   6 / 7  
+Computer network                   6 / 7  
 
 ## English Proficiency
 
