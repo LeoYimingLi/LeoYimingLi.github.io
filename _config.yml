@@ -1,6 +1,6 @@
 title: Yi-Ming Li(Leo)
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://LeoYimingLi.github.io"
+# baseurl: "/researcher"
 remote_theme: LeoYimingLi/Resume
 
 markdown: kramdown
@@ -8,9 +8,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+# footer: yes
+# footer_url: "https://LeoYimingLi.github.io"
+# # footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
