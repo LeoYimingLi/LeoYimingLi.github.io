@@ -33,7 +33,7 @@ Data Structures and Algorithms  &emsp;&emsp; 90 /100
 Set Theory and Graph Theory     &emsp;&emsp;&emsp; 91 /100  
 Python Programming              &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 97 /100  
 Mathematical Logic              &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 95.5 /100  
-Digital Logic Design            &ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 92.3 /100  
+Digital Logic Design            &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 92.3 /100  
 Computer System                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 90 /100  
 Programming in the Large        &emsp;&emsp;&emsp;&emsp;&emsp; 7 / 7  
 Machine Learning  &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  6 / 7  
