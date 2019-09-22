@@ -3,9 +3,8 @@ webrick:
     My-Header: Yi-Ming Li(Leo)
     My-Other-Header: :D
     
-archives:
-    title: "Yi-Ming Li(Leo)"
-    
+# archives:
+#     title: "Yi-Ming Li(Leo)"
 # title_prefix: 'Yi-Ming Li(Leo)'
 title: Yi-Ming Li(Leo)
 # subtitle: Resume
