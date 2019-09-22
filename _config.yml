@@ -1,6 +1,7 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Yi-Ming Li(Leo)
+url: "https://LeoYimingLi.github.io"
+# baseurl: "/researcher"
+remote_theme: LeoYimingLi/Resume
 
 markdown: kramdown
 
