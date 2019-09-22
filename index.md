@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<font color=#FDFEFE>Yi-Ming Li(Leo)</font>
 ## About Me
 
 <img class="profile-picture" src="yiming.jpg">
