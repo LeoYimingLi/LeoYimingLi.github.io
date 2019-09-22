@@ -18,7 +18,8 @@ GPA at Present: 90.6/100, 106 credits
 2019 2nd Semester  Exchange Student, National Chiao Tung University, Hsinchu, Taiwan. Department of Computer Science(CS)  
 (...underway...)
 
-2019 1st Semester  Exchange Student, The University of Queensland, Brisbane, Australia. School of Information Technology and Electrical Engineering(ITEE)  Major GPA : 6.33/7.00, 6 units  
+2019 1st Semester  Exchange Student, The University of Queensland, Brisbane, Australia. School of Information Technology and Electrical Engineering(ITEE)  
+Major GPA : 6.33/7.00, 6 units  
 Major Courses: Programming in the Large, Machine Learning and Computer network
 
 ## Project Experience
