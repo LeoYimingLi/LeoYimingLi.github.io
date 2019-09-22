@@ -12,8 +12,8 @@ This semester I study in NCTU as an exchange student(Student ID: 0840029).
 
 ## Education
 
-2017-2020 expected &emsp;<font color=#A9A9A9>**Bachelor of Science**</font>, *Harbin Institute of Technology*, Harbin, China. School of Computer Science and Technology  
-                    GPA at Present: 90.6/100, 106 credits
+2017-2020 expected|<font color=#A9A9A9>**Bachelor of Science**</font>, *Harbin Institute of Technology*, Harbin, China. School of Computer Science and Technology  
+|GPA at Present: 90.6/100, 106 credits
 
 2019 2nd Semester  **Exchange Student**, *National Chiao Tung University*, Hsinchu, Taiwan. Department of Computer Science(CS)  
                    (...underway...)
