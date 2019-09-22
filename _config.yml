@@ -4,6 +4,10 @@ url: "https://LeoYimingLi.github.io"
 # baseurl: "/researcher"
 remote_theme: ankitsultana/researcher@gem
 
+webrick:
+  headers:
+    My-Header: Yi-Ming Li(Leo)
+
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
