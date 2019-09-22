@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+<title> Yi-Ming Li(Leo)
+---
+  
 ## About Me
 
 <img class="profile-picture" src="yiming.jpg">
