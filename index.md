@@ -12,13 +12,13 @@ This semester I study in NCTU as an exchange student(Student ID: 0840029).
 
 ## Education
 
-2017-2020 expected|<font color=#A9A9A9>**Bachelor of Science**</font>, *Harbin Institute of Technology*, Harbin, China. School of Computer Science and Technology  
-|GPA at Present: 90.6/100, 106 credits
+2017-2020 expected &emsp; <font color=#A9A9A9>**Bachelor of Science**</font>, *Harbin Institute of Technology*, Harbin, China. School of Computer Science and Technology  
+GPA at Present: 90.6/100, 106 credits
 
-2019 2nd Semester  **Exchange Student**, *National Chiao Tung University*, Hsinchu, Taiwan. Department of Computer Science(CS)  
+2019 2nd Semester &emsp;**Exchange Student**, *National Chiao Tung University*, Hsinchu, Taiwan. Department of Computer Science(CS)  
                    (...underway...)
 
-2019 1st Semester  **Exchange Student**, *The University of Queensland*, Brisbane, Australia. School of Information Technology and Electrical Engineering(ITEE)  
+2019 1st Semester &emsp; **Exchange Student**, *The University of Queensland*, Brisbane, Australia. School of Information Technology and Electrical Engineering(ITEE)  
                    Major GPA : 6.33/7.00, 6 units  
                    Major Courses: Programming in the Large, Machine Learning and Computer Network
 
@@ -29,7 +29,7 @@ Benben is an intelligent chatting virtual robot developed by SCIR lab, HIT and t
 [Related Introduce Website] (https://mp.weixin.qq.com/s/2Zm4-xkUq_A3d0qjn1FN_Q)
 
 ## Course Score
-Data Structures and Algorithms    90 /100  
+Data Structures and Algorithms &emsp;&emsp;90 /100  
 Set Theory and Graph Theory       91 /100  
 Python Programming                97 /100  
 Mathematical Logic              95.5 /100  
