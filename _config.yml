@@ -4,7 +4,7 @@ webrick:
     My-Other-Header: :D
 
 title: Yi-Ming Li(Leo)
-subtitle: Computer Science
+# subtitle: Resume
 url: "https://LeoYimingLi.github.io"
 # url: "https://ankitsultana.com"
 # baseurl: "/researcher"
