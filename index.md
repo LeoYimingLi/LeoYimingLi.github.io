@@ -8,20 +8,18 @@ layout: default
 
 Hi! I am a 3rd year student from Harbin Institute of Technology, Harbin, China. My major is Computer science.
 
-This semester I study in NCTU as an exchange student. My student ID is 0840029.
+This semester I study in NCTU as an exchange student(Student ID: 0840029).
 
 ## Education
 
-2017-2020 expected Bachelor of Science, Harbin Institute of Technology, Harbin, China. School of Computer Science and Technology
+2017-2020 expected Bachelor of Science, Harbin Institute of Technology, Harbin, China. School of Computer Science and Technology  
 GPA at Present: 90.6/100, 106 credits
 
-2019 2nd Semester Exchange Student, National Chiao Tung University, Hsinchu, Taiwan. Department of Computer Science(CS)
+2019 2nd Semester Exchange Student, National Chiao Tung University, Hsinchu, Taiwan. Department of Computer Science(CS)  
 (...underway...)
 
-2019 1st Semester Exchange Student, The University of Queensland, Brisbane, Australia. School of Information Technology and Electrical Engineering(ITEE)
-Major GPA : 6.33/7.00, 6 units
-Major Courses: Programming in the Large, Machine Learning and
-Computer network
+2019 1st Semester Exchange Student, The University of Queensland, Brisbane, Australia. School of Information Technology and Electrical Engineering(ITEE)  Major GPA : 6.33/7.00, 6 units  
+Major Courses: Programming in the Large, Machine Learning and Computer network
 
 ## Project Experience
 
