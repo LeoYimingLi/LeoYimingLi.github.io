@@ -20,9 +20,8 @@ This semester I study in NCTU as an exchange student(Student ID: 0840029).
 
 ## Project Experience
 
-* 2019.6 - 2019.8, Ancient Poem Game Module in Benben Wechat Official Account  
+* 2019.6 - 2019.8, [Ancient Poem Game Module in Benben Wechat Official Account](https://mp.weixin.qq.com/s/2Zm4-xkUq_A3d0qjn1FN_Q) 
 Benben is an intelligent chatting virtual robot developed by SCIR lab, HIT and this game enables Benben to interact with users in 5 poem games. It would generate questions from database and require users to input answers to continue games. In some modules, Benben and users would need to input poem sentences in required format in turn, a way to test users’ proficiency in Chinese Poems.  
-[Related Introduce Website](https://mp.weixin.qq.com/s/2Zm4-xkUq_A3d0qjn1FN_Q)
 
 ## Course Score
 Data Structures and Algorithms  &emsp;&emsp; 90 /100  
