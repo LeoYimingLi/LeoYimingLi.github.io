@@ -14,7 +14,7 @@ This semester I study in NCTU as an exchange student(Student ID: 0840029).
 
 |Period|Information|
 | ---- | ---- |
-|2017-2020 expected| <font color = Gray>**Bachelor of Science**</font>, *Harbin Institute of Technology*, Harbin, China.<br>School of Computer Science and Technology<br>GPA at Present: 90.6/100, 106 credits|
+|2017-2020 expected| <font color = #696969>**Bachelor of Science**</font>, *Harbin Institute of Technology*, Harbin, China.<br>School of Computer Science and Technology<br>GPA at Present: 90.6/100, 106 credits|
 |2019 2nd Semester| **Exchange Student**, *National Chiao Tung University*, Hsinchu, Taiwan.<br>Department of Computer Science(CS)<br>(...underway...)|
 |2019 1st Semester| **Exchange Student**, *The University of Queensland*, Brisbane, Australia.<br>School of Information Technology and Electrical Engineering(ITEE)<br>Major GPA : 6.33/7.00, 6 units<br>Major Courses: Programming in the Large, Machine Learning and Computer Network|
 
