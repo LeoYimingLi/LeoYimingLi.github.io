@@ -30,14 +30,14 @@ Benben is an intelligent chatting virtual robot developed by SCIR lab, HIT and t
 
 ## Course Score
 Data Structures and Algorithms  &emsp;&emsp; 90 /100  
-Set Theory and Graph Theory     &emsp;&emsp; 91 /100  
+Set Theory and Graph Theory     &emsp;&emsp;&emsp; 91 /100  
 Python Programming              &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 97 /100  
 Mathematical Logic              &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 95.5 /100  
 Digital Logic Design            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 92.3 /100  
-Computer System                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 90 /100  
-Programming in the Large        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 7 / 7  
-Machine Learning  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  6 / 7  
-Computer network  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  6 / 7  
+Computer System                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 90 /100  
+Programming in the Large        &emsp;&emsp;&emsp;&emsp;&emsp; 7 / 7  
+Machine Learning  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  6 / 7  
+Computer network  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  6 / 7  
 
 ## English Proficiency
 
