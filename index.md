@@ -6,8 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yiming.jpg">
 
-Hi! I am a 3rd year student from Harbin Institute of Technology, Harbin, China. My major is Computer science.
-
+Hi! I am a 3rd year student from Harbin Institute of Technology, Harbin, China. My major is Computer science. 
 This semester I study in NCTU as an exchange student(Student ID: 0840029).
 
 ## Education
