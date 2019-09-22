@@ -23,8 +23,8 @@ This semester I study in NCTU as an exchange student(Student ID: 0840029).
 * 2019.6 - 2019.8, [Ancient Poem Game Module in Benben Wechat Official Account](https://mp.weixin.qq.com/s/2Zm4-xkUq_A3d0qjn1FN_Q)  
 This module is a puzzle game program(coded in Python) running on Wetchat App platform. 
 It can test users’ proficiency in Chinese Poems by the following two ways:
-* generate questions from database then require users to input answers to continue
-* input poem sentences in required format in turn with users.   
+  - generate questions from database then require users to input answers to continue
+  - input poem sentences in required format in turn with users.
 
 ## Course Performance
 
