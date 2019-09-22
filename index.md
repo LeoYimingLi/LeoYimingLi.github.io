@@ -23,44 +23,29 @@ Major Courses: Programming in the Large, Machine Learning and Computer network
 
 ## Project Experience
 
-2019.6 - 2019.8, Ancient Poem Game Module in Benben Wechat Official Account
-Benben is an intelligent chatting virtual robot developed by SCIR lab, HIT and this game
-enables Benben to interact with users in 5 poem games. It would generate questions from
-database and require users to input answers to continue games. In some modules, Benben
-and users would need to input poem sentences in required format in turn, a way to test
-users’ proficiency in Chinese Poems. 
+2019.6 - 2019.8, Ancient Poem Game Module in Benben Wechat Official Account  
+Benben is an intelligent chatting virtual robot developed by SCIR lab, HIT and this game enables Benben to interact with users in 5 poem games. It would generate questions from database and require users to input answers to continue games. In some modules, Benben and users would need to input poem sentences in required format in turn, a way to test users’ proficiency in Chinese Poems.   
 [Related Introduce Website] https://mp.weixin.qq.com/s/2Zm4-xkUq_A3d0qjn1FN_Q
 
 ## Course Score
-Data Structures and Algorithms 90 /100
-Set Theory and Graph Theory 91 /100
-Python Programming 97 /100
-Mathematical Logic 95.5 /100
-Digital Logic Design 92.3 /100
-Computer System 90 /100
-Programming in the Large 7 / 7
-Machine Learning 6 / 7
-Computer network 6 / 7
+Data Structures and Algorithms 90 /100  
+Set Theory and Graph Theory 91 /100  
+Python Programming 97 /100  
+Mathematical Logic 95.5 /100  
+Digital Logic Design 92.3 /100  
+Computer System 90 /100  
+Programming in the Large 7 / 7  
+Machine Learning 6 / 7  
+Computer network 6 / 7  
 
 ## English Proficiency
 
-IELTS: 7 (Reading 9, Listening 7.5, Speaking 6, Writing 6)
-GRE: 150(VR) + 170(QR) + 3.5(AW)
+IELTS: 7 (Reading 9, Listening 7.5, Speaking 6, Writing 6)  
+GRE: 150(VR) + 170(QR) + 3.5(AW)  
 I am still preparing for TOEFL and GRE test for future graduate application.
 
 ## Other
 I hope my exchange life in NCTU not only consist of courses-studying but also some participation
-in lab, which would help me to feel the academic atmosphere here more comprehensively :D
+in lab, which would help me to feel the academic atmosphere here more comprehensively :D  
 Also I want to improve my research skills to gain more advantages when applying for good
 graduate programs in the future.
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
