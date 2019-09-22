@@ -24,6 +24,10 @@ This is a puzzle game program(coded in Python) running on Wetchat App platform.
 It can test users’ proficiency in Chinese Poems by the following two ways:
   - Generating questions from database then require users to input answers to continue, eg. blank filling;
   - Taking turns with users to input poem sentences in required format, eg. containing the same character.
+  
+## Goal
+
+I hope my exchange life in NCTU not only consist of courses-studying but also some participation in lab, which would help me to feel the academic atmosphere here more comprehensively. Also I want to improve my research skills to gain more advantages when applying for good graduate programs in the future.  
 
 ## Course Performance
 
@@ -44,9 +48,5 @@ It can test users’ proficiency in Chinese Poems by the following two ways:
 IELTS: 7 (Reading 9, Listening 7.5, Speaking 6, Writing 6)  
 GRE: 150(VR) + 170(QR) + 3.5(AW)  
 I am still preparing for TOEFL and GRE test for future graduate application.
-
-## Other
-
-I hope my exchange life in NCTU not only consist of courses-studying but also some participation in lab, which would help me to feel the academic atmosphere here more comprehensively. Also I want to improve my research skills to gain more advantages when applying for good graduate programs in the future.    
 
 
