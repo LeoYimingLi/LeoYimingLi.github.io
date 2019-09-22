@@ -11,8 +11,9 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://www.google.com/"
+# footer_text: "Page design by Ankit Sultana"
+footer_text: ""
 
 sass:
     style: compressed
