@@ -23,28 +23,38 @@ Major GPA : 6.33/7.00, 6 units
 Major Courses: Programming in the Large, Machine Learning and
 Computer network
 
-## Research Interest
+## Project Experience
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+2019.6 - 2019.8, Ancient Poem Game Module in Benben Wechat Official Account
+Benben is an intelligent chatting virtual robot developed by SCIR lab, HIT and this game
+enables Benben to interact with users in 5 poem games. It would generate questions from
+database and require users to input answers to continue games. In some modules, Benben
+and users would need to input poem sentences in required format in turn, a way to test
+users’ proficiency in Chinese Poems. 
+[Related Introduce Website] https://mp.weixin.qq.com/s/2Zm4-xkUq_A3d0qjn1FN_Q
 
-## Publications
+## Course Score
+Data Structures and Algorithms 90 /100
+Set Theory and Graph Theory 91 /100
+Python Programming 97 /100
+Mathematical Logic 95.5 /100
+Digital Logic Design 92.3 /100
+Computer System 90 /100
+Programming in the Large 7 / 7
+Machine Learning 6 / 7
+Computer network 6 / 7
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## English Proficiency
 
-## Typography
+IELTS: 7 (Reading 9, Listening 7.5, Speaking 6, Writing 6)
+GRE: 150(VR) + 170(QR) + 3.5(AW)
+I am still preparing for TOEFL and GRE test for future graduate application.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+## Other
+I hope my exchange life in NCTU not only consist of courses-studying but also some participation
+in lab, which would help me to feel the academic atmosphere here more comprehensively :D
+Also I want to improve my research skills to gain more advantages when applying for good
+graduate programs in the future.
 
 ---
 
