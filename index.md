@@ -2,7 +2,6 @@
 layout: default
 ---
 <title> Yi-Ming Li(Leo)
----
   
 ## About Me
 
