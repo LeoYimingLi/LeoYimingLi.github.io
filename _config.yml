@@ -20,9 +20,9 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "CV"
+   link: "CV.pdf"
  - name: "Transcripts"
    link: "Transcripts.pdf"
- - name: "Resume"
-   link: "CV.pdf"
  - name: "IELTS"
    link: "English Proficiency.pdf"
