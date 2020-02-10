@@ -13,6 +13,7 @@ This semester I study in NCTU as an exchange student(Student ID: 0840029).
 |Period|Information|
 | ---- | ---- |
 |2017-2020 expected| Bachelor of Science, *Harbin Institute of Technology*, Harbin, China.<br>School of Computer Science and Technology<br>GPA at Present: 90.6/100, 106 credits|
+|2020 1st Semester| **Exchange Student**, *University of California, Berkeley*, Berkeley, U.S.<br>UC Berkeley Extension<br>(...underway...)|
 |2019 2nd Semester| **Exchange Student**, *National Chiao Tung University*, Hsinchu, Taiwan.<br>Department of Computer Science(CS)<br>(...underway...)|
 |2019 1st Semester| **Exchange Student**, *The University of Queensland*, Brisbane, Australia.<br>School of Information Technology and Electrical Engineering(ITEE)<br>Major GPA : 6.33/7.00, 6 units<br>Major Courses: Programming in the Large, Machine Learning and Computer Network|
 
@@ -25,8 +26,7 @@ It can test users’ proficiency in Chinese Poems by the following two ways:
   - Taking turns with users to input poem sentences in required format, eg. containing the same character.
   
 ## Goal
-
-I hope my exchange life in NCTU not only consist of courses-studying but also some participation in lab, which would help me to feel the academic atmosphere here more comprehensively. Also I want to improve my research skills to gain more advantages when applying for good graduate programs in the future.  
+...
 
 ## Course Performance
 
