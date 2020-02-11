@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## About Me<span style="color: red;">text</span>
+## About Me
 
 <img class="profile-picture" src="yiming.jpg">
 
