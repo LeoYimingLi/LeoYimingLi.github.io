@@ -50,7 +50,7 @@ It can test users’ proficiency in Chinese Poems by the following two ways:
 ## English Proficiency
 
 IELTS: 7 (Reading 9, Listening 7.5, Speaking 6, Writing 6)  
-GRE: 150(VR) + 170(QR) + 3.5(AW)  
+GRE: 150(VR) + 170(QR) + 3.0(AW)  
 I am still preparing for TOEFL and GRE test for future graduate application.
 
 
