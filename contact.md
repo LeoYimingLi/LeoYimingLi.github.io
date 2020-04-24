@@ -13,9 +13,9 @@ is_contact: true
 
 > Apt3, 2501 Dana St 
 >
-> Berkeley
+> Berkeley, CA, 94704
 >
-> CA, 94704
+> US
 
 ---
 
