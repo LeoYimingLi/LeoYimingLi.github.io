@@ -12,7 +12,7 @@ This semester I study in UCB as an exchange student(Student ID: 3035532956).
 
 |Period|Information|
 | ---- | ---- |
-|2017-2020 expected| Bachelor of Science, *Harbin Institute of Technology*, Harbin, China.<br>School of Computer Science and Technology<br>GPA at Present: 90.6/100, 106 credits|
+|2017-2021 expected| Bachelor of Science, *Harbin Institute of Technology*, Harbin, China.<br>School of Computer Science and Technology<br>GPA at Present: 90.6/100, 106 credits|
 |2020 1st Semester| **Exchange Student**, *University of California, Berkeley*, CA, U.S.<br>UC Berkeley Extension<br>(...underway...)|
 |2019 2nd Semester| **Exchange Student**, *National Chiao Tung University*, Hsinchu, Taiwan.<br>Department of Computer Science(CS)<br>Major GPA : 4.18/4.3, 15 credits<br>Major Courses: Algorithms, Theory of Computation, Deep Learning, Random Process, Introduction to Massive Data Analysis|
 |2019 1st Semester| **Exchange Student**, *The University of Queensland*, Brisbane, Australia.<br>School of Information Technology and Electrical Engineering(ITEE)<br>Major GPA : 6.33/7.00, 6 units<br>Major Courses: Programming in the Large, Machine Learning, Computer Network|
