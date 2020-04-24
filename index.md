@@ -41,6 +41,11 @@ It can test users’ proficiency in Chinese Poems by the following two ways:
 |Programming in the Large|7 / 7|  
 |Machine Learning|6 / 7|  
 |Computer network|6 / 7|  
+|Algorithms|A+|
+|Theory of Computation|A+|
+|Deep Learning|A+|
+|Introduction to Massive Data Analysis|A+|
+
 
 ## English Proficiency
 
