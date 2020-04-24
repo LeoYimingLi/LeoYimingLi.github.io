@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [leo.STM08@nctu.edu.tw](mailto:leo.STM08@nctu.edu.tw)
+* Email: [leo.yiming.li@outlook.com](mailto:leo.yiming.li@outlook.com)
 
-* Phone: [+886-0905-674-718](tel:+886-0905-674-718)
+* Phone: [+1-512-947-4633](tel:+1-512-947-4633)
 
 ---
 
 ## Mailing Address
 
-> 300, Daxue Road
+> Apt3, 2501 Dana St 
 >
-> Hsinchu
+> Berkeley
 >
-> Taiwan
+> CA, 94704
 
 ---
 
