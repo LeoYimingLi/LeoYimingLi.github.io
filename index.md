@@ -26,7 +26,7 @@ It can test users’ proficiency in Chinese Poems by the following two ways:
   - Taking turns with users to input poem sentences in required format, eg. containing the same character.
 
 * 2019.12  Clustering Marvel Characters by personal pagerank and conductance (*Massive Data Analysis* course project)
-* 2020.4 Building HOG-SVM model for pedestrian detection on KITTI dataset(*Digital Image process course* project)
+* 2020.4 Building HOG-SVM model for pedestrian detection on KITTI dataset(*Digital Image process* course project)
   
 ## Goal
 ...
