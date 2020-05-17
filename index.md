@@ -6,7 +6,6 @@ layout: default
 <img class="profile-picture" src="yiming.jpg">
 
 Hi! I am a 3rd year student from Harbin Institute of Technology, China. My major is Computer science. 
-This semester I study in UCB as an exchange student(Student ID: 3035532956).
 
 ## Education
 
@@ -28,8 +27,6 @@ It can test users’ proficiency in Chinese Poems by the following two ways:
 * 2019.12  Clustering Marvel Characters by personal pagerank and conductance (*Massive Data Analysis* course project)
 * 2020.4 Building HOG-SVM model for pedestrian detection on KITTI dataset(*Digital Image process* course project)
   
-## Goal
-...
 
 ## Course Performance
 
